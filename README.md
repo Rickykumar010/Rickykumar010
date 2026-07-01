@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi I'm Ricky  Kumar<br>🌱 I’m currently learning Full Stack Development<br>👯 I’m looking to collaborate with - other developers in the community<br>💬 Ask me about MERN<br>📫 How to reach me rickykumar26400@gmail.com<br>
+👋 Hi I'm Ricky  Kumar<br>🌱 I’m Full Stack Developer<br>👯 I’m looking to collaborate with - other developers in the community<br>💬 Ask me about MERN<br>📫 How to reach me rickykumar26400@gmail.com<br>
 
 
 ## 🌐 Socials:
